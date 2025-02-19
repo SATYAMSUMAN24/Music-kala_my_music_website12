@@ -61,3 +61,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 <!-- Design By -->
 <!-- Harshit Choudhry--># Music-kala_my_music_website12
+![Screenshot (107)](https://github.com/user-attachments/assets/a4898fe9-66e3-4e84-bf45-8607e1ce768b)
+
+
