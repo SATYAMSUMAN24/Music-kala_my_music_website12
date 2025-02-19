@@ -53,14 +53,16 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 >Note: All images and artwork on this website were generated using AI tools.
 
 # __ Special Thanks for
-> <!----======Guided By =====--->
-<!-- By Dr. Prakash Pathak Sir---->
+>!----======Guided By =====--->
+>!-- By Dr. Prakash Pathak Sir---->
 
-<!--=====CODE BY =======-->
-<!-- Sudipta Panda -->
+>!--=====CODE BY =======-->
+>!-- Sudipta Panda -->
 
-<!-- Design By -->
-<!-- Harshit Choudhry--># Music-kala_my_music_website12
+>!-- Design By -->
+>!-- Harshit Choudhry-->
+>
+># Music-kala_my_music_website12
 
 
 # __ Preview
