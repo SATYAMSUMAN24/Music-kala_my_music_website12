@@ -1,4 +1,4 @@
-# Music Player Website for Songs
+![image](https://github.com/user-attachments/assets/f41c96c4-a93d-4d86-80d4-0cb2a2f95dc2)# Music Player Website for Songs
 
 > This is a simple and responsive music player application for songs using HTML, CSS and JavaScript.
 
@@ -21,7 +21,8 @@
 >This website is built using only the basics:
 >Frontend:- HTML, CSS, JavaScript
 >Hosting:- GitHub Pages (or any static hosting service)
-> Deployment :- Vercel
+> Deployment :- Vercel   https://music-kala-website-sudipta-panda.netlify.app/
+
 
 # __AI-Generated Artwork
 
