@@ -1,6 +1,6 @@
-# Music Player App for OPM Songs
+# Music Player App for Songs
 
-> This is a simple and responsive music player application for OPM songs using HTML, CSS and JavaScript.
+> This is a simple and responsive music player application for songs using HTML, CSS and JavaScript.
 
 
 > Username: *admin*
