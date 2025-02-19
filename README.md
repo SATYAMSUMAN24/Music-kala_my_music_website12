@@ -1,4 +1,4 @@
-# Music Player App for Songs
+# Music Player Website for Songs
 
 > This is a simple and responsive music player application for songs using HTML, CSS and JavaScript.
 
