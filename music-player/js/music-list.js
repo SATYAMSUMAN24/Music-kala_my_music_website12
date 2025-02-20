@@ -10,9 +10,9 @@
 let allMusic = [
   {
     name: "Tum Hi Ho",
-    artist: "ARJIT SINGH",
+    artist: "Arjit Singh",
     img: "music-1",
-    src: "songs-1"
+    src: "music-1"
   },
   {
     name: "Tere Bin",
@@ -67,7 +67,7 @@ let allMusic = [
 
   {
     name: "Baharo Phool Ba",
-    artist: "I Belong to the Zoo",
+    artist: "Mohamaad Rafi",
     img: "music-10",
     src: "music-10"
   },
